@@ -9,5 +9,7 @@ Stock Market Internship Tasks
 3. Long-Term Investing vs Short-Term Trading
 
 Prepared By:
+
 Dhejesh G
+
 Dhirajlal Gandhi College of Technology
